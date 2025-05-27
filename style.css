@@ -3,4 +3,41 @@ body {
     margin: 20px;
     border: 2px solid black;
     padding: 10px;
+    text-align: center;
+}
+.input input, .output {
+    height: 40px;
+    font-size: 30px;
+    margin: 5px;
+}
+.buttonpad {
+    margin-bottom: 20px;
+}
+.buttonpad button {
+    width: 45px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 15%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.operation {
+    background-color: lightgray;
+}
+.operation:hover {
+    background-color: gray;
+}
+.clear {
+    color: white;
+    background-color: lightcoral;
+}
+.clear:hover {
+    background-color: red;
+}
+.equals {
+    background-color: lime;
+}
+.equals:hover {
+    background-color: green;
 }
