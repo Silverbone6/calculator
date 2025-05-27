@@ -1,3 +1,5 @@
 # Welcome to Silver Web Calculator
-Here I am going to implement multiple types of calculators in order to make us of the features of frontend developing skills I acquired.
-You can access by clicking here >>> https://silverbone6.github.io/calculator/
+Multiple types of calculators displayed for multiple kinds of objectives!
+My goal is to make use of the frontend developing skills that I have.
+I am eager to learn each day more and more, and I am looking forward to become a good developer.
+You can access by clicking this link >>> https://silverbone6.github.io/calculator/
